@@ -1,0 +1,16 @@
+PROMPT PARA A CRIAÇÃO DO TÍTULO DO EBOOK
+
+Crie um título de um ebook sobre o tema de css, o ebook é do nicho de programação e o subnicho é de css, o título deve ser épico, e que tenha uma temática nerd no título, me liste 8 variações de títulos.
+
+PROMPT PARA A CRIAÇÃO DO CONTEÚDO DO EBOOK
+
+Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código e trazendo um contexto bem explicado e bem detalhado, com uma estrutura de um livro real, com seus capitulos e seu conteudo. 
+{REGRAS} 
+> Explique sempre de uma maneira clara 
+> Deixe o texto enxuto 
+> Sempre traga exemplos de código em contextos reais 
+> sempre deixe um título sugestivo por tópico
+
+PROMPT PARA A CRIAÇÃO DA CAPA DO EBOOK
+
+Crie uma imagem para capa de ebook, que tenha como referência de tecnologia, que seja uma imagem bem épica e bem impactante, como um robo com um notebook, como por exemplo. Coloque uma espécie de escudo no meio do peito do robo, um logo do css. Como é um ebook quero que coloque o título que é "A Batalha pelo Estilo", e o subtítulo que é "Dominando a Arte do CSS". Alinhe no centro da imagem, deixe o título bem chamativo com uma sombra na fonte, a fonte do título e subtítulo deve ter a fonte 8 bits wonder. Por fim o autor no final, com o nome "Camilly Beatriz" na parte de baixo da imagem.
